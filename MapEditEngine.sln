@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDx5", "TextDx5\TextDx5.csproj", "{2CE1A5C4-3500-492E-99E9-86DEEFE0E2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{47B66059-8CC0-447F-B4E8-F60B8F0B7DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE1A5C4-3500-492E-99E9-86DEEFE0E2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE1A5C4-3500-492E-99E9-86DEEFE0E2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE1A5C4-3500-492E-99E9-86DEEFE0E2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE1A5C4-3500-492E-99E9-86DEEFE0E2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B66059-8CC0-447F-B4E8-F60B8F0B7DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B66059-8CC0-447F-B4E8-F60B8F0B7DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B66059-8CC0-447F-B4E8-F60B8F0B7DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B66059-8CC0-447F-B4E8-F60B8F0B7DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
